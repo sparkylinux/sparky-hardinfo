@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=System Profiler and Benchmark
+Name[pl]=Informacje o systemie
+Comment[en]=This is a tool to show you information about your system hardware
+Comment[pl]=Wyświetla informacje o urządzeniach systemowych
+Exec=hardinfo
+Icon=hwinfo
+Terminal=False
+Type=Application
+Categories=System;
